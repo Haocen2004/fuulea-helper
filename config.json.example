@@ -1,0 +1,7 @@
+{
+    "authKey":"留空 这项用于 #mt ref 获取authentications数据",
+    "sid":"session id 从敏特系统抓包获取",
+    "miraiKey": "EXAMPLEKEY",
+    "miraiUrl": "http://127.0.0.1",
+    "adminQQ": 123456789
+}
